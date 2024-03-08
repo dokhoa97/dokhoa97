@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+**Do Dang Khoa**
+_TP HCM_
+[facebook](https://www.facebook.com/)
+`code javascript`
 <!--
 **dokhoa97/dokhoa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
