@@ -1,8 +1,10 @@
 ### Hi there 👋
-**Do Dang Khoa**
-_TP HCM_
+**My full name is Do Dang Khoa, I am looking for Intern Front-end Developer, I am living in HCM city.**
+
+`My skills are JS,Reactjs,Nextjs`
+
 [facebook](https://www.facebook.com/)
-`code javascript`
+
 <!--
 **dokhoa97/dokhoa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
